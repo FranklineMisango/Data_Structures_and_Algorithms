@@ -1,2 +1,5 @@
 ## The Base Data Structures (Continously updated with pseudcode)
-!()[![BST](<images/Binary Trees_240411_220754_1.jpg>)]
+### Linked Lists 
+![]('images/3.jpg)
+![]('images/2.jpg)
+![]('images/1.jpg)
