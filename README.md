@@ -1,4 +1,12 @@
 # The Base Data Structures (Continously updated with pseudcode)
+## Basics of Memory management and Pointers
+![](images/Basics_1.jpg)
+![](images/Basics_2.jpg)
+![](images/Basics_3.jpg)
+![](images/Basics_4.jpg)
+![](images/Basics_5.jpg)
+![](images/Basics_6.jpg)
+![](images/Basics_7.jpg)
 ## Linked Lists 
 ![](images/3.jpg)
 ![](images/2.jpg)
