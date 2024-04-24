@@ -7,6 +7,7 @@
 ![](images/Basics_5.jpg)
 ![](images/Basics_6.jpg)
 ![](images/Basics_7.jpg)
+![](images/Basics_8.jpg)
 ## Linked Lists 
 ![](images/3.jpg)
 ![](images/2.jpg)
