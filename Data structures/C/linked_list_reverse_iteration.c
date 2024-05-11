@@ -21,6 +21,9 @@ void Reverse(){
     }
 
 }
+
+
+
 void Insert(int x) {
     // This function inserts a new node with data 'x' at the beginning of the list
 
