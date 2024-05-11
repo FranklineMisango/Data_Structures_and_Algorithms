@@ -33,5 +33,8 @@ int main(){
         printf("The values in the heap are : %d", pointer_heap[i]); //or A[i]
     };
 
+    free(pointer_heap); //Heap memory should be deallocated
+    free(p) ;
+
 
 }
