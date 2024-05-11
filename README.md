@@ -1,4 +1,10 @@
-# The Base Data Structures (Continously updated with pseudcode)
+# The Base Data Structures (Scroll for algorithms below)
+## Fundamentals
+![](image_datastructures/Data structures_240511_172435_1.jpg)
+![](image_datastructures/Data structures_240511_172435_2.jpg)
+![](image_datastructures/Data structures_240511_172435_3.jpg)
+![](image_datastructures/Data structures_240511_172435_4.jpg)
+![](image_datastructures/Data structures_240511_172435_5.jpg)
 ## Basics of Memory management and Pointers
 ![](images/Basics_1.jpg)
 ![](images/Basics_2.jpg)
@@ -21,7 +27,6 @@
 ## Graphs 
 ![](images/6.jpg)
 ![](images/7.jpg)
-
 # The Base Algorithms 
 ## Classes of Algorithms - Asymptotic notations 
 ![](images/8.jpg)
@@ -113,9 +118,3 @@
 ![](images/BB_6.jpg)
 ## Extra problem - Towers of Hanoi 
 ![](images/TOH.jpg)
-
-
-
-
-
-
