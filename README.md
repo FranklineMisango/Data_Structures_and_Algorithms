@@ -5,6 +5,9 @@
 ![](image_datastructures/fundamentals_3.jpg)
 ![](image_datastructures/fundamentals_4.jpg)
 ![](image_datastructures/fundamentals_5.jpg)
+![](image_datastructures/ADT.jpg)
+![](image_datastructures/Stacks_and_Queues.jpg)
+![](image_datastructures/Trees.jpg)
 ## Basics of Memory management and Pointers
 ![](images/Basics_1.jpg)
 ![](images/Basics_2.jpg)
