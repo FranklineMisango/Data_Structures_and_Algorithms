@@ -1,0 +1,15 @@
+# Coursera Stanford Algorithm Design and Analysis
+## Notes
+![](stanford-Algorithms_240830_233633_1.jpg)
+![](stanford-Algorithms_240830_233633_2.jpg)
+![](stanford-Algorithms_240830_233633_3.jpg)
+![](stanford-Algorithms_240830_233633_4.jpg)
+![](stanford-Algorithms_240830_233633_5.jpg)
+![](stanford-Algorithms_240830_233633_6.jpg)
+![](stanford-Algorithms_240830_233633_7.jpg)
+![](stanford-Algorithms_240830_233633_8.jpg)
+![](stanford-Algorithms_240830_233633_9.jpg)
+![](stanford-Algorithms_240830_233633_10.jpg)
+![](stanford-Algorithms_240830_233633_11.jpg)
+![](stanford-Algorithms_240830_233633_12.jpg)
+![](stanford-Algorithms_240830_233633_13.jpg)
