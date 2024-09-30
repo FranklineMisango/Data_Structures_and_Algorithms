@@ -1,0 +1,9 @@
+{
+    "java.configuration.runtimes": [
+
+    ],
+
+    "java.project.referencedLibraries": [
+        "/usr/local/bin/algs4.jar"
+    ]
+}
